@@ -4,4 +4,4 @@ Collected some practical resources on GitHub
 - [C++ template](https://github.com/Walton1128/CPP-Templates-2nd--)
 - [Algorithm and data structure](https://github.com/algorithmzuo/algorithm-journey)
 - [Typora crack](https://github.com/shuhongfan/TyporaCrack)
-
+- [IDM crack](https://github.com/glucyzz/IDM)
