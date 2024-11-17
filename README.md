@@ -7,3 +7,4 @@ Collected some practical resources
 - [IDM Crack](https://github.com/lstprjct/IDM-Activation-Script)
 - [Visualization of programming languages](https://pythontutor.com/visualize.html#mode=edit)
 - [LockHunter](https://lockhunter.com/)
+- [zsh config](https://www.haoyep.com/posts/zsh-config-oh-my-zsh/)
