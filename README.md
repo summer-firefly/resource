@@ -6,3 +6,4 @@ Collected some practical resources
 - [Typora crack](https://github.com/shuhongfan/TyporaCrack)
 - [IDM Crack](https://github.com/lstprjct/IDM-Activation-Script)
 - [Visualization of programming languages](https://pythontutor.com/visualize.html#mode=edit)
+- [LockHunter](https://lockhunter.com/)
