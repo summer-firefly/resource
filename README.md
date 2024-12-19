@@ -8,3 +8,4 @@ Collected some practical resources
 - [Visualization of programming languages](https://pythontutor.com/visualize.html#mode=edit)
 - [LockHunter](https://lockhunter.com/)
 - [zsh config](https://www.haoyep.com/posts/zsh-config-oh-my-zsh/)
+- [Tabby(A powerful terminal)](https://github.com/Eugeny/tabby)
